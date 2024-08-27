@@ -2,7 +2,7 @@
 
 ## Bienvenida
 
-[Nombre del Documento](./docs/readme2.md)
+[README.md 2](./docs/readme2.md)
 ![Texto alternativo](./linuxcommands.PNG "Título opcional")
 ¡Hola a todos!
 
