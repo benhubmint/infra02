@@ -2,6 +2,8 @@
 
 ## Bienvenida
 
+[Nombre del Documento](./docs/readme2.md)
+![Texto alternativo](./linuxcommands.PNG "Título opcional")
 ¡Hola a todos!
 
 Me complace darles la bienvenida a este curso de **Informática Orientado a DevOps**. Mi nombre es Antonio Lefimil, y seré su profesor a lo largo de este apasionante viaje en el mundo de DevOps.
