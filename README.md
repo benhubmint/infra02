@@ -4,7 +4,7 @@
 
 ¡Hola a todos!
 
-Me complace darles la bienvenida a este curso de **Informática Orientado a DevOps**. Mi nombre es [Tu Nombre], y seré su profesor a lo largo de este apasionante viaje en el mundo de DevOps.
+Me complace darles la bienvenida a este curso de **Informática Orientado a DevOps**. Mi nombre es Antonio Lefimil, y seré su profesor a lo largo de este apasionante viaje en el mundo de DevOps.
 
 ## Objetivos del Curso
 
