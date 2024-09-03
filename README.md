@@ -54,6 +54,8 @@ Estoy entusiasmado por iniciar este curso con ustedes y espero que juntos podamo
 
 ---
 
+
+
 # infra02
 
 # Comandos para subir el docker
