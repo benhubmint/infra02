@@ -1,0 +1,8 @@
+#Usa imagen base de Nginx
+FROM nginx:alpine
+
+#Copia el archivo html al directorio de nginx
+COPY index.html /usr/share/nginx/html/index_web.html
+
+#Expone el puerto 80
+EXPOSE 80
